@@ -939,8 +939,6 @@ abrupt
 abrupte
 abruptes
 abrupts
-abruti
-abrutie
 abruties
 abrutîmes
 abrutir
@@ -15302,8 +15300,6 @@ baisasses
 baisassiez
 baisât
 baisâtes
-baise
-baisé
 baisée
 baisées
 baisemain
@@ -15311,7 +15307,6 @@ baisemains
 baisement
 baisements
 baisent
-baiser
 baisera
 baiserai
 baiserais
@@ -19605,7 +19600,6 @@ bitassiez
 bitassions
 bitât
 bitâtes
-bite
 bité
 bitée
 bitées
@@ -32176,7 +32170,6 @@ chiennions
 chiennons
 chiens
 chient
-chier
 chiera
 chierai
 chieraient
@@ -35153,7 +35146,6 @@ cocotte
 cocottes
 coction
 coctions
-cocu
 cocuage
 cocuages
 cocufia
@@ -37030,7 +37022,6 @@ comtes
 comtés
 comtesse
 comtesses
-con
 conard
 conarde
 conardes
@@ -38013,11 +38004,9 @@ connaîtrai
 connaîtras
 connaître
 connaîtrez
-connard
 connarde
 connardes
 connards
-connasse
 connasses
 connecta
 connectai
@@ -40485,11 +40474,8 @@ cougouars
 couguar
 couguars
 couic
-couille
 couilles
-couillon
 couillonna
-couillonne
 couillonné
 couillons
 couina
@@ -43410,7 +43396,6 @@ cuivrions
 cuivrique
 cuivriques
 cuivrons
-cul
 cula
 culai
 culaient
@@ -71775,7 +71760,6 @@ enflions
 enflons
 enflure
 enflures
-enfoiré
 enfoirée
 enfoirées
 enfoirés
@@ -85944,7 +85928,6 @@ finnoises
 fins
 fiole
 fioles
-fion
 fions
 fioriture
 fioritures
@@ -88838,7 +88821,6 @@ foutrals
 foutraque
 foutraques
 foutras
-foutre
 foutrez
 foutriez
 foutrions
@@ -119377,7 +119359,6 @@ mercureux
 mercuriale
 mercuriel
 mercuriels
-merde
 merdes
 merdeuse
 merdeuses
@@ -125377,9 +125358,7 @@ négociions
 négocions
 négondo
 négondos
-nègre
 nègres
-négresse
 négresses
 négrier
 négriers
@@ -125965,7 +125944,6 @@ nippones
 nipponne
 nipponnes
 nippons
-nique
 niques
 nirvana
 nirvanas
@@ -133425,7 +133403,6 @@ partons
 partouse
 partouses
 partout
-partouze
 partouzes
 parts
 paru
@@ -136707,7 +136684,6 @@ pétards
 pétas
 pétase
 pétases
-pétasse
 pétassent
 pétasses
 pétassiez
@@ -142174,7 +142150,6 @@ pouffasse
 pouffasses
 pouffât
 pouffâtes
-pouffe
 pouffé
 pouffent
 pouffer
@@ -142190,7 +142165,6 @@ poufferons
 poufferont
 pouffes
 pouffez
-pouffiasse
 pouffiez
 pouffions
 pouffons
@@ -145988,13 +145962,11 @@ pustuleuse
 pustuleux
 put
 pût
-putain
 putains
 putatif
 putatifs
 putative
 putatives
-pute
 putes
 pûtes
 putier
@@ -166650,7 +166622,6 @@ salassiez
 salassions
 salât
 salâtes
-salaud
 salauds
 sale
 salé
@@ -166846,7 +166817,6 @@ salonniers
 salons
 saloon
 saloons
-salop
 salopa
 salopai
 salopaient
@@ -166854,14 +166824,12 @@ salopais
 salopait
 salopâmes
 salopant
-salopard
 salopards
 salopas
 salopasse
 salopasses
 salopât
 salopâtes
-salope
 salopé
 salopée
 salopées
@@ -171698,7 +171666,6 @@ sodiques
 sodium
 sodoku
 sodokus
-sodomie
 sodomies
 sodomisa
 sodomisai
@@ -175460,7 +175427,6 @@ sucées
 sucement
 sucements
 sucent
-sucer
 sucera
 sucerai
 suceraient
@@ -179107,7 +179073,6 @@ taperons
 taperont
 tapes
 tapés
-tapette
 tapettes
 tapeur
 tapeurs
@@ -179464,8 +179429,6 @@ tardives
 tardiveté
 tardivetés
 tardons
-tare
-taré
 tarée
 tarées
 tarent
@@ -188183,7 +188146,6 @@ vagabondes
 vagabondez
 vagabonds
 vagi
-vagin
 vaginal
 vaginale
 vaginales

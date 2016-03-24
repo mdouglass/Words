@@ -42,6 +42,9 @@
       "allowUpperCase": false
     },
     "inputs": {
+      "bad": [
+        "in/banbuilder/es.txt"
+      ],
       "dictionary": "in/Words/es.txt"
     },
     "outputs": {
@@ -56,6 +59,9 @@
       "allowUpperCase": false
     },
     "inputs": {
+      "bad": [
+        "in/banbuilder/fr.txt"
+      ],
       "dictionary": "in/Words/fr.txt"
     },
     "outputs": {

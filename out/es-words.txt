@@ -69090,7 +69090,6 @@ bolleis
 bollemos
 bollen
 bollenes
-bollera
 bolleras
 bolleria
 bollerias
@@ -74196,12 +74195,9 @@ cabritunas
 cabrituno
 cabritunos
 cabro
-cabron
-cabrona
 cabronada
 cabronadas
 cabronas
-cabronazo
 cabronazos
 cabrones
 cabros
@@ -80165,7 +80161,6 @@ capulines
 capulis
 capullina
 capullinas
-capullo
 capullos
 capulo
 capulos
@@ -90430,7 +90425,6 @@ chicherias
 chichero
 chicheros
 chiches
-chichi
 chichies
 chichigua
 chichiguas
@@ -92386,7 +92380,6 @@ choches
 chochez
 chochin
 chochines
-chocho
 chochocol
 chochos
 chocla
@@ -98550,8 +98543,6 @@ cojobo
 cojobos
 cojolite
 cojolites
-cojon
-cojones
 cojonuda
 cojonudas
 cojonudo
@@ -103498,7 +103489,6 @@ connubial
 connubio
 connubios
 connumerar
-cono
 conoce
 conoced
 conocedor
@@ -108718,7 +108708,6 @@ coñees
 coñeo
 coñete
 coñetes
-coño
 coñon
 coñones
 coños
@@ -111896,7 +111885,6 @@ culminemos
 culminen
 culmines
 culmino
-culo
 culombio
 culombios
 culon
@@ -188035,7 +188023,6 @@ follajes
 follamos
 follan
 follando
-follar
 follara
 follarais
 follaramos
@@ -188062,7 +188049,6 @@ follasteis
 folle
 folleis
 follemos
-follen
 follero
 folleros
 folles
@@ -191936,7 +191922,6 @@ funquen
 funques
 fura
 furas
-furcia
 furcias
 furcula
 furculas
@@ -196274,7 +196259,6 @@ gilbert
 giles
 gili
 gilies
-gilipollas
 gilipollez
 gilis
 gilito
@@ -206003,7 +205987,6 @@ hijeemos
 hijeen
 hijees
 hijeo
-hijo
 hijodalgo
 hijole
 hijos
@@ -208459,7 +208442,6 @@ hosteleros
 hosterero
 hosteria
 hosterias
-hostia
 hostiario
 hostiarios
 hostias
@@ -222370,7 +222352,6 @@ jodedores
 jodeis
 jodemos
 joden
-joder
 jodera
 joderan
 joderas
@@ -236794,7 +236775,6 @@ mamacallos
 mamacona
 mamaconas
 mamad
-mamada
 mamadas
 mamadera
 mamaderas
@@ -236902,8 +236882,6 @@ mamo
 mamografia
 mamola
 mamolas
-mamon
-mamona
 mamonas
 mamoncillo
 mamonea
@@ -239607,15 +239585,12 @@ marianista
 mariano
 marianos
 marias
-marica
 maricas
 marice
 mariceis
 maricemos
 maricen
 marices
-maricon
-maricona
 mariconada
 mariconas
 mariconera
@@ -253961,7 +253936,6 @@ nazcamos
 nazcan
 nazcas
 nazco
-nazi
 nazis
 nazismo
 nazismos
@@ -258812,7 +258786,6 @@ ojeruda
 ojerudas
 ojerudo
 ojerudos
-ojete
 ojetea
 ojeteaba
 ojeteabais
@@ -262061,7 +262034,6 @@ osteopatia
 osteotomia
 ostero
 osteros
-ostia
 ostial
 ostiales
 ostiariado
@@ -270619,7 +270591,6 @@ pendoles
 pendolista
 pendolon
 pendolones
-pendon
 pendona
 pendonas
 pendonea
@@ -274234,7 +274205,6 @@ picea
 piceas
 piceo
 piceos
-picha
 pichacha
 pichachas
 pichagua
@@ -279534,7 +279504,6 @@ polizon
 polizones
 polizonte
 polizontes
-polla
 pollada
 polladas
 pollancon
@@ -279732,7 +279701,6 @@ polvifico
 polvifique
 polvillo
 polvillos
-polvo
 polvora
 polvoras
 polvorea
@@ -281412,7 +281380,6 @@ potoco
 potocos
 potorillo
 potorillos
-potorro
 potorros
 potos
 potosi
@@ -287717,7 +287684,6 @@ pustulosas
 pustuloso
 pustulosos
 put
-puta
 putada
 putadas
 putaismo
@@ -287819,8 +287785,6 @@ putesca
 putescas
 putesco
 putescos
-puto
-puton
 putones
 putos
 putrefacta
@@ -344338,7 +344302,6 @@ torticeros
 torticolis
 tortilla
 tortillas
-tortillera
 tortillero
 tortillo
 tortillos
@@ -364686,7 +364649,6 @@ zorrino
 zorrinos
 zorro
 zorrocloco
-zorron
 zorrones
 zorronga
 zorrongas
