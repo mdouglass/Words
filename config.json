@@ -1,0 +1,66 @@
+{
+  "de": {
+    "opts": {
+      "minLength": 3,
+      "maxLength": 10,
+      "allowUpperCase": false
+    },
+    "inputs": {
+      "dictionary": "in/Words/de.txt"
+    },
+    "outputs": {
+      "alphabet": "out/de-alpha.txt",
+      "common": "out/de-words.txt"
+    }
+  },
+  "en": {
+    "opts": {
+      "minLength": 3,
+      "maxLength": 10,
+      "allowUpperCase": false
+    },
+    "inputs": {
+      "common": "in/norvig/count_1w.txt",
+      "bad": [
+        "in/badwords/google-bad-words.txt",
+        "in/badwords/bannedwords.com.txt",
+        "in/banbuilder/en-base.txt",
+        "in/banbuilder/en-uk.txt",
+        "in/banbuilder/en-us.txt"
+      ],
+      "dictionary": "in/Words/en.txt"
+    },
+    "outputs": {
+      "alphabet": "out/en-alpha.txt",
+      "common": "out/en-words.txt"
+    }
+  },
+  "es": {
+    "opts": {
+      "minLength": 3,
+      "maxLength": 10,
+      "allowUpperCase": false
+    },
+    "inputs": {
+      "dictionary": "in/Words/es.txt"
+    },
+    "outputs": {
+      "alphabet": "out/es-alpha.txt",
+      "common": "out/es-words.txt"
+    }
+  },
+  "fr": {
+    "opts": {
+      "minLength": 3,
+      "maxLength": 10,
+      "allowUpperCase": false
+    },
+    "inputs": {
+      "dictionary": "in/Words/fr.txt"
+    },
+    "outputs": {
+      "alphabet": "out/fr-alpha.txt",
+      "common": "out/fr-words.txt"
+    }
+  }
+}

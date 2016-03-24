@@ -1,0 +1,28 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "Word list generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdouglass/Words.git"
+  },
+  "author": "Matthew Douglass <matthew@grayscalegames.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdouglass/Words/issues"
+  },
+  "homepage": "https://github.com/mdouglass/Words#readme",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-plugin-transform-async-to-generator": "^6.7.4",
+    "babel-preset-es2015-node5": "^1.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
